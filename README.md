@@ -4,8 +4,8 @@ Software engineer, always interested in learning new skills and experimenting wi
 
 ## Education
 
-- Master's degree computer graphics, games and virtual reality, Universidad Rey Juan Carlos (2018)
-- Computer Science degree, Universidad Carlos III de Madrid (2016)
+- Master's degree in computer graphics, games and virtual reality. Universidad Rey Juan Carlos (2018)
+- Computer Science degree. Universidad Carlos III de Madrid (2016)
 
 ## Work Experience 
 
@@ -19,6 +19,15 @@ Focused on the research and implementation of several systems to obtain and proc
 
 Used Python, PyTorch, Blender, Git, Pandas, COLMAP, Tkinter, Polyscope.
 
+#### Publications 
+
+Tasked with the avatar reconstructions for the publications below:
+- https://emebassey.medium.com/online-fashion-shopping-through-the-lens-of-body-perception-f63594eb0de (2023)
+- https://www.truetoform.fit/post/how-brands-can-use-technology-to-enter-the-sustainability-movement (2023)
+- De Coster, L., Sánchez-Herrero, P., López-Moreno, J., & Tajadura-Jiménez, A. (2021). The Perceived Match Between Observed and Own Bodies, but Not Its Accuracy, Is Influenced by Movement Dynamics and Clothing Cues. Frontiers in Human Neuroscience, 430.
+- De Coster, L., Sánchez-Herrero, P., López-Moreno, J., & Tajadura-Jiménez, A. (2021). Use of a real-life practical context changes the relationship between implicit body representations and real body measurements. Scientific reports, 11(1), 1-15.
+- De Coster, L., Sánchez-Herrero, P., Aliaga, C., Otaduy, M. A., López-Moreno, J., & Tajadura-Jiménez, A. (2020). perceived match between own and observed models’ bodies: influence of face, viewpoints, and body size. Scientific reports, 10(1), 1-18.
+
 ## Proyects
 ### Small game engine (In progress)
 
@@ -28,15 +37,15 @@ Small implementation of a game engine in my free time.
 
 ![Example rotating camera and adding component](assets/example_camera_rotation_and_adding_a_component.gif)
 
-https://gitlab.com/pablosherrerog/thule_engine
+[Thule engine repository](https://gitlab.com/pablosherrerog/thule_engine)
 
-There are some topics that I'm interested in learning, so the idea is to have a project on which I can apply the things while I learn them. 
+There are some topics that I'm interested in learning, so the idea is to have a project that I can use to apply the things while I learn them. 
 - I wanted to understand better C++ and the overall architecture of a Game Engine, including automatizing the build and testing steps (CI/CD).
     - To learn more about the general structure of Game Engines I'm reading the book [Game Engine Architecture](https://www.gameenginebook.com/) (Jason Gregory).
     - I'm also using the channel [The Cherno](https://www.youtube.com/@TheCherno) as it covers many interesting topics like how to implement a GUI using ImGui, managing an asset manager, etc...
 - I was interested in learning more about the ECS approach so I used [Austin Morlan introduction to ECS](https://austinmorlan.com/posts/entity_component_system/#demo).
 - I would like in the future to learn more about Vulkan or DirectX but for now I'm using OpenGL since it's more approachable
-  - Using https://learnopengl.com/ as the main resource.
+  - Using [learnopengl](https://learnopengl.com/) as the main resource.
 - I wanted to try a tool to profile the code and understand better why some parts of the code were taking too much time so I integrated the [Tracy Profiler](https://github.com/wolfpld/tracy). 
 
 ### Game Jam UPM (2019)
@@ -47,7 +56,7 @@ IV Edition UPM Game Jam. 48h to develop a game, the team was composed of 4 peopl
 
 Geriatric Hard Road: Help the elderly get to the bus by fixing the obstacles in their way. But be careful not to waste resources on unnecessary renovations or you will receive a penalty.
 
-https://irx99.itch.io/geriatric-hard-road
+[Geriatric Hard Road itch.io](https://irx99.itch.io/geriatric-hard-road)
 
 Used: Unity.
 
