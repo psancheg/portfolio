@@ -2,6 +2,8 @@
 
 Software engineer, always interested in learning new skills and experimenting with new technologies. With a particular interest in the game development field.
 
+LinkedIn: https://www.linkedin.com/in/pablosherrerog/
+
 ## Education
 
 - Master's degree in computer graphics, games and virtual reality. Universidad Rey Juan Carlos (2018)
