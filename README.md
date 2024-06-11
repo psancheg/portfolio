@@ -2,7 +2,7 @@
 
 Software engineer, always interested in learning new skills and experimenting with new technologies. With a particular interest in the game development field.
 
-LinkedIn: https://www.linkedin.com/in/pablosherrerog/
+[LinkedIn](https://www.linkedin.com/in/pablosherrerog/)
 
 ## Education
 
@@ -41,14 +41,14 @@ Small implementation of a game engine in my free time.
 
 [Thule engine repository](https://gitlab.com/pablosherrerog/thule_engine)
 
-There are some topics that I'm interested in learning, so the idea is to have a project that I can use to apply the things while I learn them. 
+There are some topics that I'm interested in learning, so the idea is to use this project to apply them and test them while I learn. 
 - I wanted to understand better C++ and the overall architecture of a Game Engine, including automatizing the build and testing steps (CI/CD).
     - To learn more about the general structure of Game Engines I'm reading the book [Game Engine Architecture](https://www.gameenginebook.com/) (Jason Gregory).
-    - I'm also using the channel [The Cherno](https://www.youtube.com/@TheCherno) as it covers many interesting topics like how to implement a GUI using ImGui, managing an asset manager, etc...
+    - I'm also using the channel [The Cherno](https://www.youtube.com/@TheCherno) as it covers many interesting topics like how to implement a GUI using ImGui, creating an asset manager, etc...
 - I was interested in learning more about the ECS approach so I used [Austin Morlan introduction to ECS](https://austinmorlan.com/posts/entity_component_system/#demo).
 - I would like in the future to learn more about Vulkan or DirectX but for now I'm using OpenGL since it's more approachable
   - Using [learnopengl](https://learnopengl.com/) as the main resource.
-- I wanted to try a tool to profile the code and understand better why some parts of the code were taking too much time so I integrated the [Tracy Profiler](https://github.com/wolfpld/tracy). 
+- I wanted to try a tool to profile the code to understand better why some parts were taking so long, so I integrated the [Tracy Profiler](https://github.com/wolfpld/tracy). 
 
 ### Game Jam UPM (2019)
 
