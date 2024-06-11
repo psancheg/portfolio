@@ -72,6 +72,10 @@ Final project for the Gaming technology subject. The goal was to make a videogam
 
 ![Robot wars gameplay 1](assets/Juego_1_03_07_17.PNG)
 
+![Robot wars gameplay 2](assets/robot_wars_fight_1.gif)
+
+![Robot wars gameplay 3](assets/robot_wars_freeze_magnetic_ball_combo.gif)
+
 Summary: local split-screen multiplayer for 4 players. They must fight in an arena, the one who scores more points by eliminating the other players wins the game. There are several powers in the map that can be combined in different ways to achieve different combos (for example the freezing power and magnetic sphere is a good combination to submerge your opponent into the water). The arena will add an extra challenge by dropping the floor tiles into the water and throwing some nasty events to the players (for example a giant spike ball or a rainfall of mines).
 
 [Robot wars gameplay video](https://youtu.be/F05E09HXF68)
