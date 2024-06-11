@@ -17,6 +17,11 @@ Used Python, PyTorch, Blender, Git, Pandas, COLMAP, Tkinter, Polyscope.
 ### Small game engine (In progress)
 
 Small implementation of a game engine in my free time. 
+
+!["Default scene example"](assets/exampleTestScene_thule_engine.jpg)
+
+![Example rotating camera and adding component](https://drive.google.com/uc?id=1ka-TYLnzmnaYHZd0AUskaEf-iQqBihQp)
+
 https://gitlab.com/pablosherrerog/thule_engine
 
 There are some topics that I'm interested to learn, so the idea of this project is to have something to apply the things that I learn. 
@@ -30,6 +35,8 @@ There are some topics that I'm interested to learn, so the idea of this project 
 ### Game Jam UPM (2019)
 
 IV Edition UPM Game Jam. 48h to develop a game, the team was composed of 4 people. The theme was disabled people. 
+
+!["2019 Game Jam"](assets/upm2019gamejam_geriatric_road.png)
 
 Geriatric Hard Road: Help the elderly get to the bus by fixing the obstacles in their way. But be careful to not waste resources on not nedded reforms or you will receive a penalty.
 
