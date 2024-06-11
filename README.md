@@ -1,8 +1,8 @@
 # Software engineer
 
 ## Education
-- Master's degree computer graphics, games and virtual reality, University Rey Juan Carlos (2018)
-- Computer Science degree, University Carlos III de Madrid (2016)
+- Master's degree computer graphics, games and virtual reality, Universidad Rey Juan Carlos (2018)
+- Computer Science degree, Universidad Carlos III de Madrid (2016)
 ## Work Experience 
 ### Research engineer at SEDDI (02-2018, 05-2024)
 Focused on the research and implementation of several systems to obtain and process parametric avatars from different types of inputs.
@@ -27,12 +27,31 @@ There are some topics that I'm interested to learn, so the idea of this project 
 - I would like in the future to learn more about Vulkan or DirectX but for now I'm using OpenGL since is more approachable
   - Using https://learnopengl.com/ as the main resource.
 
+### Game Jam UPM (2019)
+
+IV Edition UPM Game Jam. 48h to develop a game, the team was composed of 4 people. The theme was disabled people. 
+
+Geriatric Hard Road: Help the elderly get to the bus by fixing the obstacles in their way. But be careful to not waste resources on not nedded reforms or you will receive a penalty.
+
+https://irx99.itch.io/geriatric-hard-road
+
+Used: Unity.
+
 ### Master thesis (2018). Parametric avatar reconstruction using point clouds
+
 Used linear blend skinning and principal component analysis to create a custom parametric avatar with pose and body shape parameters. Used non-linear optimization with the avatar’s parameters to deform the avatar’s mesh to fit a target point cloud.
 
 Used: C++, OpenGL, Blender, Ceres, COLMAP.
 
-### Bachelor thesis (2016) Computer visión integrated with virtual reality devices applied to video games. 
+### Master's Gaming technology project (2017).
+
+Final project for the Gaming technology subject. The goal was to make a videogame from start to finish.
+
+Summary: local split-screen multiplayer for 4 players. They must fight in an arena, the one who scores more points by eliminating the other players wins the game. There are several powers in the map than can be combined in different ways to achive different combos (for example the freezing power and magnetic sphere is a good combination to submerge your oponent to the water). The arena will add an extra challenge by droping the floor tiles into the water and throwing some nasty events to the players (for example a giant spike ball or a rainfall of mines).
+
+Used: Unity, Blender.
+
+### Bachelor thesis (2016) Computer vision integrated with virtual reality devices applied to videogames. 
 
 Used an Oculus headset (DK1) and computer vision using a Kinect camera (V1) to create a VR experience. I learned about virtual reality devices, positional tracking systems, computer vision, and Unity
 
